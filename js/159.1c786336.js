@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuejs"]=self["webpackChunkvuejs"]||[]).push([[159],{159:function(u,n,e){e.r(n),e.d(n,{default:function(){return a}});var t=function(){var u=this,n=u._self._c;return n("div",[n("h2",[u._v("서브 페이지입니다.")]),n("button",{on:{click:u.goMainPage}},[u._v("메인 페이지로 이동(router 함수 사용)")])])},r=[],s={methods:{goMainPage(){this.$router.push("/main")}}},i=s,l=e(1),o=(0,l.Z)(i,t,r,!1,null,null,null),a=o.exports}}]);
+//# sourceMappingURL=159.1c786336.js.map
